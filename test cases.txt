@@ -1,0 +1,7 @@
+1     correct output
+
+floating   exception
+
+bool   output
+
+string  exception
